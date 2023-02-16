@@ -1,7 +1,7 @@
 {
   "name": "tdd-long-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Now it is time to start writing some tests! For this next practice, you'll be using test-driven development (TDD). A TDD approach dictates that you'll follow the TDD workflow, meaning that you'll need to follow the TDD workflow of **Red**, **Green**, **Refactor**.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -17,5 +17,13 @@
     "chai": "^4.2.0",
     "chai-spies": "^1.0.0",
     "mocha": "^6.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisBeaman11/TDDPractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChrisBeaman11/TDDPractice/issues"
+  },
+  "homepage": "https://github.com/ChrisBeaman11/TDDPractice#readme"
 }
