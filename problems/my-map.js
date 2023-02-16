@@ -1,5 +1,5 @@
 function myMap(inputArray, callback) {
-  // Your code here
+ //test
 }
 
 module.exports = myMap;
